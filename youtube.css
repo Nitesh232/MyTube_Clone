@@ -388,11 +388,6 @@ body{
 
 }
 
-
-
-
-
-
 @media (max-width: 750px) {
     .video-grid{
         grid-template-columns: 1fr 1fr;
@@ -418,7 +413,8 @@ body{
 
 
 .video-preview{
- 
+    
+    cursor: pointer;
 
 }
 
@@ -465,25 +461,10 @@ body{
 }
 
 
-
-.channel-picture{
-
-    
-    
-
-}
-
 .profile-picture{
 
     width: 40px;
     border-radius: 20px;
-
-}
-
-.video-info{
-
-    
-    
 
 }
 
