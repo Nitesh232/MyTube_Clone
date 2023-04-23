@@ -1,0 +1,20 @@
+p{
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.model-text{
+    font-size: 35px;
+    text-align: center;
+    font-family: Montserrat, sans-serif;
+    font-weight: bold;
+}
+
+.text-use{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.span-sample{
+    text-decoration: underline;
+}
